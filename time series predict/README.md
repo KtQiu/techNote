@@ -1,0 +1,6 @@
+- AR
+- MA
+- ARIMA
+- hybird ANN and ARIMA
+- linear
+- non-linear
