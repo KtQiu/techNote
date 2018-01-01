@@ -1,0 +1,1 @@
+- the doc in the matlab : https://cn.mathworks.com/help/stats/hidden-markov-models-hmm.html 
